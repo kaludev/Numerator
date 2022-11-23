@@ -1,0 +1,11 @@
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\bin\Debug\Numerator.exe.config
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\bin\Debug\Numerator.exe
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\bin\Debug\Numerator.pdb
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.csproj.AssemblyReference.cache
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.Form1.resources
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.Properties.Resources.resources
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.csproj.GenerateResource.cache
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.csproj.CoreCompileInputs.cache
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.exe
+C:\Users\lukam\Desktop\Programiranje\Projekti\programiranje3-4\Numerator\Numerator\obj\Debug\Numerator.pdb
